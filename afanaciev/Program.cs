@@ -1,1 +1,3 @@
-﻿Console.WriteLine("dddddddddddddddddddddddddddd");
+﻿using afanaciev;
+
+Programm1.main();
